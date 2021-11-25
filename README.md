@@ -3,7 +3,7 @@
 ## Introduction
 In this project I analyze my personal spotify data, including my streaming history between 09/2020-09/2021 and my library items (a.k.a, songs I liked). These datasets were retrieved from my account section on Spotify's website. To complement them I also use public data I gathered from Spotify's API (for more info see [here](https://developer.spotify.com/documentation/web-api/)).
 
-For the **full notebook** click [here](https://nbviewer.org/github/alonrashty/My-Spotify/blob/master/my_spotify.ipynb)
+**For the full notebook click [here](https://nbviewer.org/github/alonrashty/My-Spotify/blob/master/my_spotify.ipynb)**
 
 ## Results
 
