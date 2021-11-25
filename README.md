@@ -7,11 +7,15 @@ In this project I analyze my personal spotify data, including my streaming histo
 
 ## Results
 
+We start with most played artists, albums and tracks:
+
 ![](plots/top_played_artists.png)
 
 ![](plots/top_played_albums.png)
 
 ![](plots/top_played_tracks.png)
+
+Now have a look at most played artist by month:
 
 ![](plots/artists_by_month.png)
 
